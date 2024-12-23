@@ -1,4 +1,4 @@
-Delta Course
+# Delta Course
 The Delta Course is designed to provide a comprehensive introduction to Git and GitHub. Through this course, participants will learn the fundamental concepts and practical skills required to effectively use Git for version control and GitHub for collaboration. Topics covered in the course include:
 
 Basic Git commands and workflows
